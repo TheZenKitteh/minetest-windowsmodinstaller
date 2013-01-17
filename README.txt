@@ -1,3 +1,5 @@
+NOTE: Tis ugly but works...
+
 These scripts allow you to easily install and
 update mods from a repo. packmod also is used
 to pack your mod for use with the installer and
